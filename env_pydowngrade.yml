@@ -176,5 +176,6 @@ dependencies:
   - zlib=1.2.13=h8cc25b3_1
   - zstd=1.5.6=h8880b57_0
   - pip:
+      - py3dmol==2.4.2
       - rdkit==2022.9.5
 prefix: C:\Users\33649\anaconda3\envs\ppchem_py3.8
